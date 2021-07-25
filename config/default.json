@@ -1,0 +1,5 @@
+{
+    "port": 8080,
+    "mongoUri": "mongodb+srv://nmargun:margun99@cluster0.wf8ip.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "my secretJWT"
+}
